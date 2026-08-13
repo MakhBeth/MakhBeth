@@ -45,5 +45,5 @@ platform stays.
 - 🎤 International speaker
 - 🌍 Milan, Italy
 - 💼 Available for consulting on front-end, accessibility, design systems, and
-  everything user-facing. Formerly at Amazon, Feltrinelli, Credimi, and
-  Objectway, if that helps.
+  everything user-facing. Formerly at Amazon, Feltrinelli, and Credimi, if
+  that helps.
