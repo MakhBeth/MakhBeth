@@ -6,8 +6,10 @@ it here.
 I turn design systems, accessibility requirements, and the occasional bit of
 trigonometry into shipping products. Lately that means **product
 configurators**: web apps where you drag a slider and a shower cabin, a terrace
-roof, or a CNC-ready DXF file changes accordingly. Mostly **TypeScript** and
-**Vue**, with a long CSS past I refuse to be ashamed of.
+roof, or a CNC-ready DXF file changes accordingly. Tools of the trade:
+**frontend at large**, **TypeScript**, and **CSS**. Frameworks come and go
+(Vue today, React before that, web components when nobody is watching); the
+platform stays.
 
 ## Things I care about
 
