@@ -5,8 +5,11 @@ it here.
 
 I turn design systems, accessibility requirements, and the occasional bit of
 trigonometry into shipping products. Lately that means **product
-configurators**: web apps where you drag a slider and a shower cabin, a terrace
-roof, or a CNC-ready DXF file changes accordingly. Tools of the trade:
+configurators** (web apps where you drag a slider and a shower cabin, a
+terrace roof, or a CNC-ready DXF file changes accordingly) and **AI
+chatbots**. Product work is where my heart is, but I never say no to a good
+marketing site: hand-rolled CSS animations deserve an audience too. Tools of
+the trade:
 **frontend at large**, **TypeScript**, and **CSS**. Frameworks come and go
 (Vue today, React before that, web components when nobody is watching); the
 platform stays.
@@ -33,8 +36,6 @@ platform stays.
 
 - [`forfettino`](https://github.com/MakhBeth/forfettino): tax math for Italian
   freelancers, because someone had to.
-- [`js-to-scss`](https://github.com/MakhBeth/js-to-scss): my most starred repo
-  is a JS-to-Sass bridge from another era. I have learned to live with this.
 - [piccologuaioaportaromana.com](https://piccologuaioaportaromana.com) and
   [oopswediditagain.com](https://oopswediditagain.com): one website per kid.
   Also an excuse to try Next.js in 2020 and Astro with web components in 2024.
