@@ -44,6 +44,7 @@ platform stays.
 ## Elsewhere
 
 - 🎤 International speaker
+- 🌐 [makhbeth.framer.website](https://makhbeth.framer.website)
 - 🌍 Milan, Italy
 - 💼 Available for consulting on front-end, accessibility, design systems, and
   everything user-facing. Formerly at Amazon, Feltrinelli, and Credimi, if
