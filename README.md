@@ -33,12 +33,14 @@ roof, or a CNC-ready DXF file changes accordingly. Mostly **TypeScript** and
   freelancers, because someone had to.
 - [`js-to-scss`](https://github.com/MakhBeth/js-to-scss): my most starred repo
   is a JS-to-Sass bridge from another era. I have learned to live with this.
+- [piccologuaioaportaromana.com](https://piccologuaioaportaromana.com) and
+  [oopswediditagain.com](https://oopswediditagain.com): one website per kid.
+  Also an excuse to try Next.js in 2020 and Astro with web components in 2024.
+  Best shipped products so far, the kids I mean.
 
 ## Elsewhere
 
-- 🎤 Speaker at Italian tech meetups and conferences
+- 🎤 International speaker
 - 🌍 Milan, Italy
 - 💼 Available for consulting on front-end, accessibility, design systems, and
   everything user-facing
-
-*Previously: "Too lazy to update GitHub biography". Character development.*
