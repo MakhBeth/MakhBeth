@@ -34,7 +34,7 @@ platform stays.
 
 ## Side quests
 
-- [`forfettino`](https://github.com/MakhBeth/forfettino): tax math for Italian
+- [`Pivella`](https://github.com/MakhBeth/pivella): tax math for Italian
   freelancers, because someone had to.
 - [piccologuaioaportaromana.com](https://piccologuaioaportaromana.com) and
   [oopswediditagain.com](https://oopswediditagain.com): one website per kid.
