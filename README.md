@@ -1,7 +1,7 @@
 # Davide Di Pumpo
 
-UX Engineer from Milan. I live in the gap between design and code, and I like
-it here.
+Product Engineer from Milan, also known as Design Engineer or UX Engineer. I
+live in the gap between design and code, and I like it here.
 
 I turn design systems, accessibility requirements, and the occasional bit of
 trigonometry into shipping products. Lately that means **product
@@ -44,7 +44,7 @@ platform stays.
 ## Elsewhere
 
 - 🎤 International speaker
-- 🌐 [makhbeth.framer.website](https://makhbeth.framer.website)
+- 🌐 [davide.consulting](https://davide.consulting)
 - 🌍 Milan, Italy
 - 💼 Available for consulting on front-end, accessibility, design systems, and
   everything user-facing. Formerly at Amazon, Feltrinelli, and Credimi, if
